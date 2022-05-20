@@ -1,0 +1,10 @@
+﻿body {
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+}
+
+#intro {
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
