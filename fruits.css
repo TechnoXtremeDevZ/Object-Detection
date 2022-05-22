@@ -1,0 +1,21 @@
+﻿body {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header_od {
+    width: 100%;
+    font-size: 23px;
+    margin-top:-2px;
+}
+
+#status {
+    font-size:18px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px mediumaquamarine;
+    border-radius:25px;
+}
